@@ -1,28 +1,24 @@
-# This is a large heading
+# Shruthi Bairy
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of thing *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Shivamogga, in the state of Karnataka, in India.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Some of the books which intrigued me:
 
-Here is `some code` in the middle of a sentence.
+- *Tulasi* and *Tulasidala* by Yandamoori Veerendranath
+- *Hamsageethe* by T R Subba Rao
+- *Chitte Hejje Jaadu* by JoGi
 
-```
-This is 
-a block
-of code
-```
+### Courses
 
-Here is how you make [a link](https://www.wikipedia.org).
+Some of the courses I recently took up
 
-![This is an image.](http://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Azure Fundamentals
+2. Unix Workbench
+3. Python for Beginners
+
+
+Here is how you can contact me [on GitHub](https://www.github.com/blackchan).
