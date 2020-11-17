@@ -1,0 +1,17 @@
+commit 4aeb8b7c7a5553355953c93eaeaf651e23973ae1
+Author: blackchan <shruthibairy@gmail.com>
+Date:   Tue Nov 17 21:39:25 2020 +0530
+
+    added gitignore
+
+commit b25745c5eba0bfe5e848bae9d144bbcc96152af8
+Author: blackchan <shruthibairy@gmail.com>
+Date:   Tue Nov 17 21:10:26 2020 +0530
+
+    added two files
+
+commit 6a92935b07083f5169748200c9ec37349ebd630b
+Author: blackchan <shruthibairy@gmail.com>
+Date:   Tue Nov 17 21:04:58 2020 +0530
+
+    added readme.txt
