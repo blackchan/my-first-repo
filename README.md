@@ -7,9 +7,9 @@ The forms of thing *unknown*, the poet's pen,
 Turns them to shapes and gives to airy nothing,
 A local *habitation* and a **name**.
 
--This is
--unordered
--list
+- This is
+- an unordered
+- list
 
 1. This is
 2. an ordered
@@ -26,5 +26,3 @@ of code
 Here is how you make [a link](https://www.wikipedia.org).
 
 ![This is an image.](http://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
